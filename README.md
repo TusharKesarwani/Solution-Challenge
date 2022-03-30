@@ -11,3 +11,6 @@ Lets Help's mission is to empower people to create a path out of poverty for the
 Our Vision
 
 We want to create an Utopia, a world of hope with happiness all around. A greener world where no one dies because of lack of funds or unavailability of the resources. A world of tolerance and social justice, where poverty has been overcome and people live in dignity and security.
+
+Youtube Video Link for explaining the project:-
+https://youtu.be/KvpwnQfg4kE
