@@ -17,4 +17,4 @@ https://youtu.be/KvpwnQfg4kE
 
 This is the full page of screenshot of our website:-
 
-https://tusharkesarwani.github.io/Solution-Challenge/img/Full%20page%20view.png
+<img align="center"  src="/img/Full%20page%20view.png">
